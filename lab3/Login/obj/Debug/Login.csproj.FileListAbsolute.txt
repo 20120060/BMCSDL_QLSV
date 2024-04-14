@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Downloads\lab3_final_fix_data_source\lab3\Login\bin\Debug\Login.exe.config
+C:\Users\ADMIN\Downloads\lab3_final_fix_data_source\lab3\Login\bin\Debug\Login.exe
+C:\Users\ADMIN\Downloads\lab3_final_fix_data_source\lab3\Login\bin\Debug\Login.pdb
+C:\Users\ADMIN\Downloads\lab3_final_fix_data_source\lab3\Login\bin\Debug\Home.exe
+C:\Users\ADMIN\Downloads\lab3_final_fix_data_source\lab3\Login\bin\Debug\Home.pdb
+C:\Users\ADMIN\Downloads\lab3_final_fix_data_source\lab3\Login\bin\Debug\Home.exe.config
+C:\Users\ADMIN\Downloads\lab3_final_fix_data_source\lab3\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\lab3_final_fix_data_source\lab3\Login\obj\Debug\Login.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Downloads\lab3_final_fix_data_source\lab3\Login\obj\Debug\Login.Form1.resources
+C:\Users\ADMIN\Downloads\lab3_final_fix_data_source\lab3\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\lab3_final_fix_data_source\lab3\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\lab3_final_fix_data_source\lab3\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\lab3_final_fix_data_source\lab3\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\lab3_final_fix_data_source\lab3\Login\obj\Debug\Login.exe
+C:\Users\ADMIN\Downloads\lab3_final_fix_data_source\lab3\Login\obj\Debug\Login.pdb
